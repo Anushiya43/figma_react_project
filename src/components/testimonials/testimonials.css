@@ -1,0 +1,56 @@
+.test{
+    background-color:#181E1E;
+}
+
+.test h1{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    position: relative;
+}
+.test h1::after{
+    content: "";
+    position: absolute;
+    width: 80px;
+    height: 4px;
+    background-color:#FFCA28;;
+    left: 16px;
+    top: 90px;
+}
+.test .box{
+    padding:32px 16px;
+}
+.test p{
+    color: #FFF;
+    font-family: Alegreya;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top:7px ;
+}
+
+.test span{
+    color: #FFF;
+    font-family: Alegreya;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 264px;
+    margin-top:7px ;
+}
+
+.test img{
+    width: 100px;
+    height: 100px;
+}
+
+@media screen and (width <= 768px) {
+    .test .box{
+        text-align: center;        
+    }
+}

@@ -1,0 +1,55 @@
+.footer{
+    background-color: #000;
+    }
+
+.footer .logo{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.footer .logo .red{
+    color: #E63946;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.footer .red1{
+    color: #FF6864;
+    font-family: Alegreya;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.footer p{
+    padding-left: 25px;
+    color: #FFF;
+    font-family: Alegreya;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.footer .social_icon{
+    width: 138px;
+    height: 32;
+}
+
+.footer .span1{
+    padding: 25px;
+    color: #FFF;
+    font-family: Alegreya;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}

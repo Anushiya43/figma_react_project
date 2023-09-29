@@ -1,0 +1,44 @@
+.navbar{  
+    width: 80%; 
+    border-radius: 0px 0px 10px 10px;
+    background-color: rgba(0, 0, 0, 0.50);
+    backdrop-filter: blur(20px);
+    margin:40px auto;
+}
+
+.navbar .nav_item{
+    list-style-type: none;
+    display: flex;
+    margin-left: auto;
+}
+
+.navbar .nav_item a{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    padding-right: 32px;
+}
+
+
+
+.navbar .logo , navImg{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.navbar .logo .red{
+    color: #E63946;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+

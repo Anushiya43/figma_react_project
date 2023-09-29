@@ -1,0 +1,27 @@
+.info{
+    background-color:#181E1E;
+    padding: auto;
+}
+
+.info h1{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+}
+
+.info {
+    color: #FFF;
+    font-family: Alegreya;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.info img{
+    width: 100px;
+    height: 100px;
+}
